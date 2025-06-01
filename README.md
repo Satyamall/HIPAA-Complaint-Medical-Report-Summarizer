@@ -12,4 +12,5 @@ uvicorn main:app --reload
 python -m uvicorn app:app --reload
 
 # Run Frontend
+npm install 
 npm run dev
